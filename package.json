@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-demo-app",
+  "version": "0.1.0",
+  "description": "Demo RxJs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlenk/rxjs-demo-app.git"
+  },
+  "author": "arlenk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlenk/rxjs-demo-app/issues"
+  },
+  "homepage": "https://github.com/arlenk/rxjs-demo-app#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
