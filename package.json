@@ -1,7 +1,7 @@
 {
   "name": "rxjs-demo-app",
   "version": "0.1.0",
-  "description": "Demo RxJs application",
+  "description": "RxJs demonstration application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,8 @@
     "url": "https://github.com/arlenk/rxjs-demo-app/issues"
   },
   "homepage": "https://github.com/arlenk/rxjs-demo-app#readme",
-  "dependencies": {
-    "http-server": "^0.11.1",
-    "rxjs": "^6.5.2"
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }
